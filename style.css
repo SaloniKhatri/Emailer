@@ -1,0 +1,105 @@
+.emailer {
+    display: flex;
+    justify-content: center;
+}
+
+.emailer_first_portion {
+    position: relative;
+    text-align: center;
+}
+
+.emailer_first_portion_content {
+    position: absolute;
+    top: 0px;
+    left: 125px;
+    text-align: center;
+}
+
+.essentials {
+    color: bisque;
+    font-size: 2rem;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-bottom: 20px;
+}
+
+.edit {
+    color: bisque;
+    font-size: 58px;
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 10px;
+}
+
+.gift {
+    color: cornflowerblue;
+    font-size: 1.8rem;
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0px;
+}
+
+.benaras {
+    color: beige;
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 15px;
+}
+
+.festive_btn {
+    color: bisque;
+    background-color: #611b1b;
+    font-size: 20px;
+    border: none;
+    border-radius: 6px;
+    padding: 9px;
+    font-weight: 600;
+}
+
+.emailer_second_portion {
+    position: relative;
+    text-align: center;
+
+}
+
+.emailer_third_portion {
+    position: relative;
+    text-align: center;
+
+}
+
+.emailer_second_portion_content {
+    position: absolute;
+    top: 10px;
+    left: 472px;
+    text-align: center;
+}
+
+.transport {
+    color: rgb(148, 41, 41);
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 38px;
+}
+
+.online {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    padding-top: 6px;
+}
+
+.connect,
+.subscribe,
+.terms {
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-weight: 200;
+
+}
